@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...java
 
--->
