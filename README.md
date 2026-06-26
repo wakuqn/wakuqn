@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-[![typograssy](https://typograssy.deno.dev/api?text=welcome%20to%20my%20github!)]
+[![typograssy](https://typograssy.deno.dev/api?text=welcome%20to%20my%20github!)]https://github.com/kawarimidoll/typograssy)
+
+
 - 🌱 I’m currently learning ...java
 
