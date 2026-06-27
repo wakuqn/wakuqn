@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+I learned before:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vscode)](https://skillicons.dev)
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
