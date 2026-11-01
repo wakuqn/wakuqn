@@ -11,5 +11,5 @@ I learned before:
 [![typograssy](https://typograssy.deno.dev/api?text=welcome%20to%20my%20github!)](https://github.com/kawarimidoll/typograssy)
 
 
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...C#
 
